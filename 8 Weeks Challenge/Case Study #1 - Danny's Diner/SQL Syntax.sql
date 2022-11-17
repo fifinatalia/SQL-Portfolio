@@ -60,4 +60,5 @@ VALUES
   ('A', '2021-01-07'),
   ('B', '2021-01-09');
 
+-- 1. What is the total amount each customer spent at the restaurant?
 
