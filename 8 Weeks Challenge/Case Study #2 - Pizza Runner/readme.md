@@ -11,7 +11,7 @@ He plans on using these insights to help him decide whether he should expand the
 
 ## **Entity Relationship Diagram**
   
-[Pizza Runner](https://user-images.githubusercontent.com/106369674/202360159-23ff15ae-95c6-463c-8fd5-47f47b1e1779.png)
+![Pizza Runner](https://user-images.githubusercontent.com/106369674/202360915-3d10c8ee-f3e0-4315-8526-f64180bb1e4e.png)
 
 ## A. Pizza Metrics
 
