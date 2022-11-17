@@ -169,3 +169,6 @@ VALUES
   WHERE order_date >= join_date
   GROUP BY s.customer_id
   ORDER BY s.customer_id;
+
+
+-----------------------------------------
