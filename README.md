@@ -1,6 +1,6 @@
 Hello ! Welcome to my Github !
 
-I have been learning SQL since July 2022 and i want to test my skill in SQL with doing some challenge to build a portofolio project. 
+I have been learning SQL since July 2022 and i want to test my skill in SQL with doing some challenge to build a portfolio project. 
 
 This my reference for doing 8 weeks challenge sql: 
 https://8weeksqlchallenge.com/
