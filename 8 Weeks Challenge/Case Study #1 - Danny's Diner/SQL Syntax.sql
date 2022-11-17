@@ -166,7 +166,7 @@ VALUES
      s.customer_id = mm.customer_id
   JOIN menu m ON 
      s.product_id = m.product_id
-  WHERE order_date >= join_date
+  WHERE order_date >= join_date AND order_date < "2021-02-01"
   GROUP BY s.customer_id
   ORDER BY s.customer_id;
 
