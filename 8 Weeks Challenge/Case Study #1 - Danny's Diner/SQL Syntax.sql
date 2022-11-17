@@ -6,6 +6,8 @@
 Schema SQL Query SQL Results
 Edit on DB Fiddle
 
+CREATE DATABASE dannys_dinner;
+USE dannys_dinner;
 CREATE SCHEMA dannys_diner;
 SET search_path = dannys_diner;
 
