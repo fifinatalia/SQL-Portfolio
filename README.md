@@ -5,6 +5,7 @@
 <image src="https://user-images.githubusercontent.com/106369674/202353112-a48a14d7-0b40-4a6c-8f36-3a62450fc3ef.png" width=500>
   
 Problem Statement
+  
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program - additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
 
