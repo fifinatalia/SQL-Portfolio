@@ -1,4 +1,4 @@
-# SQL-Portofolio
+# SQL-Portfolio
 
 **8 Week SQL Challenge From Data With Danny**
 
