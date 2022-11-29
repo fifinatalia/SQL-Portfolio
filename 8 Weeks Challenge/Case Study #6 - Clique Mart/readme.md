@@ -10,8 +10,9 @@
 Clique Bait is not like your regular online seafood store - the founder and CEO Danny, was also a part of a digital data analytics team and wanted to expand his knowledge into the seafood industry!
 
 ## **Entity Relationship Diagram**
-  
-![image](https://user-images.githubusercontent.com/106369674/204489981-b57f7c61-6ba2-483b-905c-08bc790b658e.png)
+
+![Untitled](https://user-images.githubusercontent.com/106369674/204490975-04132282-9fe8-4051-9fdd-c7db09844894.png)
+
 
 ## A. Digital Analysis
 
