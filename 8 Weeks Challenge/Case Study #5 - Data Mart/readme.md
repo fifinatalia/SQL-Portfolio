@@ -13,7 +13,7 @@ Data Mart is Danny’s latest venture and after running international operations
   
   ![image](https://user-images.githubusercontent.com/106369674/204485917-300c3428-deda-4f29-8b87-cf852b97be09.png)
 
-## A. CData Cleansing Steps
+## A. Data Cleansing Steps
 
 In a single query, perform the following operations and generate a new table in the data_mart schema named clean_weekly_sales:
 
