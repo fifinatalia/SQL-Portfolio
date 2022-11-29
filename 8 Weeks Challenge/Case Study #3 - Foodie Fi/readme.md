@@ -2,7 +2,8 @@
 
 **8 Week SQL Challenge From Data With Danny**
 
-<image src="(https://user-images.githubusercontent.com/106369674/204483327-9c7db503-30e1-4174-8198-63580544ab65.png" width=500>
+<image src="https://user-images.githubusercontent.com/106369674/204484380-08a86805-f323-477b-911c-f346cb8836bd.png" width = 500>
+
   
 ## **Problem Statement**
 
