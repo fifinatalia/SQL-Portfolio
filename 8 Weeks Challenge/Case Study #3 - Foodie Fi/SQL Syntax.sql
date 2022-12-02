@@ -2799,8 +2799,7 @@ SELECT customer_id, plan_id, start_date,
 LEAD(plan_id, 1) OVER(PARTITION BY customer_id ORDER BY plan_id) as next_plan
 FROM subscriptions)
 
-SELECT 
-  COUNT(*) AS downgraded
+SELECT COUNT(*) AS downgraded
 FROM next_plan_cte
 WHERE start_date <= '2020-12-31'
   AND plan_id = 2 
